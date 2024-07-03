@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "debugpy",
+      "request": "launch",
+      "name": "デバッグ実行",
+      "program": "${workspaceRoot}/.vscode/drive.py",
+      "cwd": "${workspaceRoot}",
+      "env": {
+        "TZ": "Asia/Tokyo"
+      },
+      "args": ["event.json"],
+      "console": "integratedTerminal"
+    }
+  ]
+}

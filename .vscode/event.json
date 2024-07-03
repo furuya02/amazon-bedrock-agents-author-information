@@ -1,0 +1,11 @@
+{
+  "agent": { "name": "agents-author-information", "version": "DRAFT", "id": "KWQBE8LF9C", "alias": "TSTALIASID" },
+  "function": "get_articles",
+  "parameters": [{ "name": "user", "type": "string", "value": "sin" }],
+  "sessionId": "439028474478575",
+  "sessionAttributes": {},
+  "promptSessionAttributes": {},
+  "inputText": "sinの記事について教えて",
+  "actionGroup": "actionGroup",
+  "messageVersion": "1.0"
+}
