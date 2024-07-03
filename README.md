@@ -34,8 +34,8 @@ DevelopersIO 著者の 得意分野や、どのようなペースで記事を書
 [[Agents for Amazon Bedrock] DevelopersIO 著者の 得意分野や、どのようなペースで記事を書いているかを答えてくれるエージェントを作成してみました](https://dev.classmethod.jp/articles/agents-for-amazon-bedrock-developersio-author-information/)
 https://dev.classmethod.jp/articles/agents-for-amazon-bedrock-developersio-author-information/
 
-### 以下の相違点があることをご了承ください。
+以下の相違点があることをご了承ください。
 
 - ActionGroupにおけるLambda指定は「Define with API schemas」から「Define with function details」に変更されています
-- DeveloperIOのページがにリューアルしたことで、著者ページのDOM構造が変換しため、Lambdaの実装を変更しています。
+- DeveloperIOのページがにリューアルしたことで、著者ページのDOM構造が変更されたため、Lambdaの実装を変更しています。
 - DeveloperIOのページがにリューアルしたことで、著者ページでシェア数を表示されなくなったため、レスポンス例を修正しています。
